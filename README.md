@@ -1,2 +1,2 @@
 # ai
-pythonn
+printf("hello")
